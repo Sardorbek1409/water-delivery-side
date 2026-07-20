@@ -109,9 +109,9 @@ window.addEventListener('DOMContentLoaded', () => {
 	// Send Contact Modal Data to Telegram
 	const form = document.querySelector('#form'),
 		telegramTokenBot = '8932993468:AAGXxkoQjYQ_6jLY2mk1jbqd7cqwC4v2eE4',
-		// chatId = '814090258'
-		chatId = '5313348303'
-
+		// chatId = '814090258' // 7933
+		// chatId = '5313348303' // 1409
+		chatId = '8957206120' // Tohir
 	// Message intagers
 	const message = {
 		loading: 'Jarayonda...',
